@@ -2,7 +2,7 @@
 
 This repository contains a research project that explores the application of Generative Adversarial Networks (GANs) in generating and pricing novel wristwatch designs using the Fashion Product Images Dataset from Kaggle. This project aims to automate the creation and pricing of new fashion products, with a particular focus on wristwatches, by leveraging AI-driven image generation techniques.
 
-##Project Overview
+## Project Overview
 
 E-commerce has revolutionized the way consumers purchase fashion items, especially during the pandemic when online shopping surged. The fashion industry, however, constantly seeks innovation in design and pricing to stay competitive. This project addresses this need by exploring how AI can be used to generate new fashion product designs, specifically wristwatches, and assign them prices based on specific attributes.
 
