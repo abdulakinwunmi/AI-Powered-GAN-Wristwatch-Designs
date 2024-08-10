@@ -73,61 +73,23 @@ Extension to Other Fashion Items: The techniques used in this research could be 
 
 ## References
 
-Singh, M., Bajpai, U., V, V. and Prasath, S. (2020) Generation of
-fashionable clothes using generative adversarial networks: A preliminary
-feasibility study. International Journal of Clothing Science and
-Technology, 32(2), pp.177-187.
-Creswell, A., White, T., Dumoulin, V., Arulkumaran, K., Sengupta, B. and
-Bharath, A.A. (2018) Generative adversarial networks: An overview. IEEE
-signal processing magazine, 35(1), pp.53-65.
-Sohn, K., Sung, C.E., Koo, G. and Kwon, O. (2020) Artificial intelligence in
-the fashion industry: consumer responses to generative adversarial
-network (GAN) technology. International Journal of Retail & Distribution
-Management, 49(1), pp.61-80.
-Kumar, A., Biswas, A. and Sanyal, S. (2018) ecommercegan: A generative
-adversarial network for e-commerce. arXiv preprint arXiv:1801.03244.
-Peters, T. and Brenner, C. (2020) Conditional adversarial networks for
-multimodal photo-realistic point cloud rendering. PFG–Journal of
-Photogrammetry, Remote Sensing and Geoinformation Science, 88(3-4),
-pp.257-269.
-Han, C., Hayashi, H., Rundo, L., Araki, R., Shimoda, W., Muramatsu, S.,
-Furukawa, Y., Mauri, G. and Nakayama, H. (2018) GAN-based synthetic
-brain MR image generation. 2018 IEEE 15th international symposium on
-biomedical imaging (ISBI 2018) (pp. 734-738). IEEE.
-Yuan, C. and Moghaddam, M. (2020) Garment design with generative
-adversarial networks. arXiv preprint arXiv:2007.10947.
-Wikipedia (2023) History of watches. Available online:
-https://en.wikipedia.org/wiki/History_of_watches [Accessed 08/07/2023].
-Aggarwal, P. (2019) Fashion Product Images Dataset. Available online:
-https://www.kaggle.com/datasets/paramaggarwal/fashion-product-
-images-dataset [Accessed 08/04/2023].
-Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D.,
-Ozair, S., Courville, A. and Bengio, Y. (2020) Generative adversarial
-networks. Communications of the ACM, 63(11), pp.139-144.
-Singh, S. (2006) Impact of color on marketing. Management
-decision, 44(6), pp.783-789.
-Funk, D. and Oly Ndubisi, N. (2006) Colour and product choice: a study of
-gender roles. Management research news, 29(1/2), pp.41-52.
-Great British Watch Company (2014) Global luxury watch and UK watch
-repair market. Colin. Available online: https://www.great-british-
-watch.co.uk/global-luxury-watch-and-uk-watch-repair-market/ [Accessed
-22/07/2023].
-Brownlee, J. (2019) How to Evaluate Generative Adversarial Networks.
-Available online: https://machinelearningmastery.com/how-to-evaluate-
-generative-adversarial-networks/ [Accessed 22/07/2023].
-Mathiasen, A. and Hvilshøj, F. (2020) Backpropagating through Fr\'echet
-Inception Distance. arXiv preprint arXiv:2009.14075.
-Ghojogh, B., Karray, F. and Crowley, M. (2020) Theoretical insights into
-the use of structural similarity index in generative models and inferential
-autoencoders. In International Conference on Image Analysis and
-Recognition (pp. 112-117). Cham: Springer International Publishing.
-Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A. and
-Chen, X. (2016) Improved techniques for training gans. Advances in
-neural information processing systems, 29.
-Shmelkov, K., Schmid, C. and Alahari, K. (2018) How good is my GAN?.
-In Proceedings of the European conference on computer vision
-(ECCV) (pp. 213-229).
-Barratt, S. and Sharma, R. (2018) A note on the inception score. arXiv
-preprint arXiv:1801.01973.
-Nilsson, J. and Akenine-Möller, T. (2020) Understanding ssim. arXiv
-preprint arXiv:2006.13846.
+Aggarwal, P. n.d. Fashion Product Images Dataset. Kaggle. https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+Kumar, A., Biswas, A. and Sanyal, S., 2018. ecommercegan: A generative adversarial network for e-commerce. arXiv preprint arXiv:1801.03244.
+Creswell, A., White, T., Dumoulin, V., Arulkumaran, K., Sengupta, B., & Bharath, A. A. 2018. Generative adversarial networks: An overview. IEEE Signal Processing Magazine, 35(1), 53-65. doi:10.1109/MSP.2017.2765202
+Han, C., et al. 2018. GAN-based synthetic brain MR image generation. In 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Washington, DC, USA, (pp. 734-738). doi:10.1109/ISBI.2018.8363678
+Singh, M., Bajpai, U., V., V., & Prasath, S. 2020. Generation of fashionable clothes using generative adversarial networks: A preliminary feasibility study. International Journal of Clothing Science and Technology, 32(2), 177-187. https://doi.org/10.1108/IJCST-12-2018-0148
+Sohn, K., Sung, C.E., Koo, G., & Kwon, O. 2021. Artificial intelligence in the fashion industry: consumer responses to generative adversarial network (GAN) technology. International Journal of Retail & Distribution Management, 49(1), 61-80. https://doi.org/10.1108/IJRDM-03-2020-0091
+Yuan, C. and Moghaddam, M., 2020. Garment design with generative adversarial networks. arXiv preprint arXiv:2007.10947.
+Peters, T., & Brenner, C. 2020. Conditional adversarial networks for multimodal photo-realistic point cloud rendering. PFG – Journal of Photogrammetry Remote Sensing and Geoinformation Science, 88(9), 257-269. doi:10.1007/s41064-020-00114-z.
+Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. 2020. Generative adversarial networks. Communications of the ACM, 63(11), 139-144. https://doi.org/10.1145/3422622
+Brownlee, J. 2022. How to evaluate generative adversarial networks. Machine Learning Mastery. https://machinelearningmastery.com/how-to-evaluate-generative-adversarial-networks/
+Mathiasen, A. and Hvilshøj, F., 2020. Backpropagating through Fr\'echet Inception Distance. arXiv preprint arXiv:2009.14075.
+Barratt, S. and Sharma, R., 2018. A note on the inception score. arXiv preprint arXiv:1801.01973.
+Nilsson, J. and Akenine-Möller, T., 2020. Understanding ssim. arXiv preprint arXiv:2006.13846. 
+Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A. and Chen, X., 2016. Improved techniques for training gans. Advances in neural information processing systems, 29.
+Shmelkov, K., Schmid, C. and Alahari, K., 2018. How good is my GAN?. In Proceedings of the European conference on computer vision (ECCV) (pp. 213-229).
+Ghojogh, B., Karray, F. and Crowley, M., 2020, June. Theoretical insights into the use of structural similarity index in generative models and inferential autoencoders. In International Conference on Image Analysis and Recognition (pp. 112-117). Cham: Springer International Publishing.
+Singh, S. 2006. Impact of color on marketing. Management Decision, 44(6), 783-789. https://doi.org/10.1108/00251740610673332
+Funk, D. and Oly Ndubisi, N. 2006. Colour and product choice: a study of gender roles. Management Research News, 29(1/2), 41-52. https://doi.org/10.1108/01409170610645439 
+History of watches. n.d. Wikipedia, the Free Encyclopedia. Retrieved August 8, 2023, from https://en.wikipedia.org/wiki/History_of_watches
+Great British Watch. 2023, March 8. Global luxury watch and UK watch repair market. Retrieved August 8, 2023. https://www.great-british-watch.co.uk/global-luxury-watch-and-uk-watch-repair-market/
