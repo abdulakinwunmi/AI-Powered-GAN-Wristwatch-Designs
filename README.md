@@ -18,7 +18,7 @@ Develop a color-based pricing system that assigns prices to the generated wristw
 Utilize the colorThief library to categorize wristwatches into specific price ranges based on their color intensity.
 
 
-##Dataset
+## Dataset
 
 The research utilizes the Fashion Product Images Dataset (Aggarwal, 2019), which contains high-resolution images of various fashion items, including shirts, trousers, bags, t-shirts, socks, wristwatches, shoes, and more. The dataset, with over 44,441 categories, is well-suited for fashion research and applications, particularly in training GAN models for product design.
 
